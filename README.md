@@ -33,3 +33,6 @@ Clone the repository, `cd` into it and run `npm install` to add the project's de
 
 # Authors
 Pierre Morin, Lucas Batista Lobato De Souza 
+
+![My Image](./trelltech/public/Capture.png)
+
