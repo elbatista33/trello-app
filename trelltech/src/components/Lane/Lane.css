@@ -1,0 +1,11 @@
+.Lane {
+  margin-top: 20px;
+  margin: 20px;
+  min-width: 17%;
+}
+
+.Lane h2 {
+  text-align: center;
+
+  padding-bottom: 5px;
+}
